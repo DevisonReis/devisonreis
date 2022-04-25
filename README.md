@@ -4,7 +4,7 @@
 
 
 - 🖖🏻 Me chamo Devison Reis, tenho 30 anos.
-- 📍 Sou de Salvador-BA.
+- 📍 Sou natural de Salvador-BA morando em Petrolina-PE.
 - 🐍 Atualmente sou estudante de Python.
 <div>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DevisonReis&theme=dark">
