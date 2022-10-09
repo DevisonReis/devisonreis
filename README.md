@@ -4,8 +4,8 @@
 
 
 - 🖖🏻 Me chamo Devison Reis, tenho 30 anos.
+- 🖥️ Desenvolvedor Front-end HTML | CSS | JavaScript | Python | Git
 - 📍 Sou natural de Salvador-BA morando em Petrolina-PE.
-- 🐍 Desenvolvedor HTML, CSS, JavaScript e Python em desenvolvimento.
 <div>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DevisonReis&theme=dark">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devisonreis&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
